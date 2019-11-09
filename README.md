@@ -26,10 +26,13 @@ Now run Radar_Target_Generation_and_Detection.m within the MATLAB environment.
 
 ## Discussion
 
+Below are the steps taken in the signal proessing.
+
 <p align="center">
 <img src="https://github.com/TheOnceAndFutureSmalltalker/radar_target_generation/blob/master/media/image11.png"  /><br /><b>Project Layout</b></p>
 <br />
 
+The final result is the CFAR Detection shown below identifying range and doppler shift of the target.
 
 <p align="center">
 <img src="https://github.com/TheOnceAndFutureSmalltalker/radar_target_generation/blob/master/media/image13.png"  /><br /><b>CFAR Detection </b></p>
